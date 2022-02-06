@@ -3,5 +3,5 @@
 I'm Borja Rodríguez, a software engineer in process!
 
 
-- 🔭 I’m currently working on University of Oviedo as a computer services employee
+- 🔭 I’m currently working on Neothinz as a full-stack developer
 - 📫 How to reach me: by this email, borjarodrilore@gmail.com
