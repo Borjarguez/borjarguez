@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/borjarguez20" target="blank"><img src="https://img.shields.io/twitter/follow/borjarguez20?logo=twitter&style=for-the-badge" alt="borjarguez20" /></a> </p>
 
-- 🔭 I’m currently working on **The Cocktail**
+- 🔭 I’m currently working at **DocPlanner Tech**
 
 - 📫 How to reach me **borjarodrilore@gmail.com**
 
