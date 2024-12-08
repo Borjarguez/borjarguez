@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Borja Rodríguez</h1>
-<h3 align="center">A Software Engeneer in a continuous process of learning</h3>
+<h3 align="center">A Software Engineer in a continuous process of learning</h3>
 
 <p align="left"> <a href="https://twitter.com/borjarguez20" target="blank"><img src="https://img.shields.io/twitter/follow/borjarguez20?logo=twitter&style=for-the-badge" alt="borjarguez20" /></a> </p>
 
